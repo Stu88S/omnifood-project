@@ -1,13 +1,7 @@
 # Omnifood Project
 Omnifood is a modern, responsive web application that helps users discover delicious recipes and explore restaurants, food delivery services, and catering options. With a focus on a seamless user experience, Omnifood provides a simple yet elegant interface for food lovers to browse, search, and save their favorite recipes and dining options. Get ready to satisfy your hunger with Omnifood!
 
-Table of Contents
-Features
-Technologies
-Installation
-Usage
-Contributing
-License
+
 Features
 Easy-to-navigate interface
 Discover thousands of delicious recipes
